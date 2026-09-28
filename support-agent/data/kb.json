@@ -1,0 +1,17 @@
+[
+  {
+    "id": "KB-BILL-001",
+    "title": "Duplicate card charge",
+    "text": "A pending duplicate may disappear within 3 business days. If both charges settle, collect the order ID and escalate for billing review. Do not promise a refund before review."
+  },
+  {
+    "id": "KB-SHIP-001",
+    "title": "Delayed shipment",
+    "text": "If tracking has not changed for 5 business days, collect the order ID and escalate to logistics."
+  },
+  {
+    "id": "KB-ACC-001",
+    "title": "Account access",
+    "text": "Never request a password or one-time code. Direct the customer to the official password-reset flow."
+  }
+]

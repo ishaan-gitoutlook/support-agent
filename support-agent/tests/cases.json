@@ -1,0 +1,17 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "must_contain": ["KB-BILL-001"],
+    "must_not_contain": ["refund completed", "has been refunded"]
+  },
+  {
+    "ticket_id": "T-1002",
+    "must_contain": ["KB-SHIP-001"],
+    "must_not_contain": ["delivered today"]
+  },
+  {
+    "ticket_id": "T-1003",
+    "must_contain": ["KB-ACC-001"],
+    "must_not_contain": ["your password is", "one-time code"]
+  }
+]
